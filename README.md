@@ -23,4 +23,4 @@ My personal portfolio website, where I built using HTML and CSS to showcase my p
 
 ## Live Website
 
-[View My Portfolio](https://oliviagoh.github.io/Personal-Portfolio-Website/)
+[Visit Me](https://oliviagoh.github.io/Personal-Portfolio-Website/)
